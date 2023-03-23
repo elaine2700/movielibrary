@@ -1,5 +1,6 @@
 {
   "name": "movielibrary",
+  "homepage": "https://portfolio.elaineserrano.com/movielibrary",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
